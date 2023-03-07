@@ -2,13 +2,12 @@
 title: Terminology
 description: 
 published: true
-date: 2023-03-07T06:35:56.787Z
+date: 2023-03-07T08:29:59.844Z
 tags: terminology, explanation, metrics
 editor: markdown
 dateCreated: 2023-03-07T06:33:50.484Z
 ---
 
-# Terminology
 
 ## Homerow
 
