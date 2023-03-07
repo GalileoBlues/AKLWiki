@@ -2,7 +2,7 @@
 title: Terminology
 description: 
 published: true
-date: 2023-03-07T08:29:59.844Z
+date: 2023-03-07T08:39:38.526Z
 tags: terminology, explanation, metrics
 editor: markdown
 dateCreated: 2023-03-07T06:33:50.484Z
@@ -11,7 +11,7 @@ dateCreated: 2023-03-07T06:33:50.484Z
 
 ## Homerow
 
-Most alternate layouts are based around the Homerow method of typing using the middle row of a standard keyboard
+Most alternate layouts are based around the Homero<kbd>w</kbd> method of typing using the middle row of a standard keyboard
 
 ![Homerow](https://user-images.githubusercontent.com/105921721/202905208-e569d1ad-ed0c-4daa-88a6-4c0b667390f3.png)
 
