@@ -2,7 +2,7 @@
 title: LayoutPlayground
 description: A copy of Oxey's Layout Playground
 published: true
-date: 2023-06-23T15:18:03.541Z
+date: 2023-06-23T15:18:33.331Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-23T14:56:07.759Z
@@ -10,7 +10,8 @@ dateCreated: 2023-06-23T14:56:07.759Z
 
  Layout Playground      
 
-Home
+^Home^
+
 
 [](../index.html)
 
